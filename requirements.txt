@@ -1,0 +1,21 @@
+# Google Cloud AI Platform SDK for using Vertex AI models
+google-cloud-aiplatform
+
+# Google Generative AI SDK for using Vertex AI models
+google-genai
+
+# Vertex AI SDK for accessing specific models
+vertexai
+
+# Pydantic for data validation and settings management
+pydantic
+
+# Pydantic settings management
+pydantic-settings
+
+# IPython for interactive shell
+IPython
+
+
+
+

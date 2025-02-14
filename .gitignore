@@ -1,0 +1,4 @@
+ragvenv
+__pycache__
+ragEnginecreds.json
+.env
